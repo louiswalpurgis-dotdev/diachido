@@ -1,0 +1,184 @@
+{
+    "name": "Địa Chỉ Đỏ",
+    "url": "DiaChiDo.com.vn",
+    "description": "Tìm kiếm ưu đãi, giảm giá tại các cửa hàng gần bạn",
+    "slogan": "Tìm kiếm ưu đãi, giảm giá tại các cửa hàng gần bạn",
+    "header": {
+        "search": "Tìm kiếm",
+        "login": "Đăng nhập",
+        "loginSocial": "Đăng nhập nhanh với Google hoặc Facebook"
+    },
+    "sidebar": {
+        "home": "Trang chủ",
+        "explore": "Khám phá",
+        "stores": "Cửa hàng",
+        "search": "Tìm kiếm",
+        "area": "Khu vực",
+        "saved": "Đã lưu",
+        "recentoffers": "Ưu đãi gần đây",
+        "recentoffersDesc": "đã thêm ưu đãi",
+        "activity": "Hoạt động",
+        "featuredcategory": "Danh mục nổi bật",
+        "preferential": "Ưu đãi"
+    },
+    "category": {
+        "amthuc": "Ẩm thực",
+        "thoitrang": "Thời trang",
+        "dulich": "Du lịch",
+        "dientu": "Điện tử",
+        "sach": "Sách",
+        "lamdep": "Làm đẹp",
+        "thethao": "Thể thao",
+        "noithat": "Nội thất"
+    },
+    "store": "Cửa hàng",
+    "latest": "Mới nhất",
+    "all": "Tất cả",
+    "status": {
+        "loading": "Đang tải...",
+        "loadmore": "Xem thêm"
+    },
+    "noresult": "Không tìm thấy kết quả phù hợp.",
+    "discount": {
+        "sale": "Giảm giá",
+        "for": "cho mặt hàng"
+    },
+    "sort": {
+        "latest": "Mới nhất",
+        "oldest": "Cũ nhất",
+        "popular": "Phổ biến",
+        "discount": "Giảm giá",
+        "mostdiscount": "Số mục giảm giá"
+    },
+    "storeDetail": {
+        "ratingDesc": "Bạn đánh giá",
+        "noRating": "chưa",
+        "ratingCount": "lượt đánh giá",
+        "love": "Yêu thích",
+        "loved": "Đã yêu thích",
+        "location": "Vị trí",
+        "explore": "Khám phá cửa hàng",
+        "follow": "Theo dõi",
+        "noResult": "Cửa hàng chưa cập nhật ưu đãi",
+        "comment": "Mọi người nghĩ gì về ",
+        "sale": "Đang ưu đãi",
+        "saleExpired": "Đã hết hạn",
+        "required": "Ưu đãi này yêu cầu mã giảm giá. Xem chi tiết để lấy mã giảm giá."
+    },
+    "comment": {
+        "requireUser": "Bạn cần đăng nhập để bình luận...",
+        "placehoder": "Nhập nội dung để bình luận...",
+        "noResult": "Chưa có bình luận nào",
+        "sort": "Sắp xếp bình luận",
+        "delete": "Xóa Bình luận",
+        "deleteTitle": "Xác nhận xóa Bình luận",
+        "deleteConfirm": "Bạn có chắc chắn muốn xóa bình luận này?",
+        "deleteSuccess": "Xóa bình luận thành công",
+        "edit": "Sửa Bình luận",
+        "editTitle": "Chỉnh sửa bình luận",
+        "timeAgo": "trước",
+        "ok": "Đồng ý",
+        "cancel": "Hủy",
+        "loadMore": "Xem thêm bình luận"
+    },
+    "sale": {
+        "name": "Tên",
+        "offer": "Ưu đãi",
+        "time": "Thời gian áp dụng",
+        "action": "Hành động",
+        "note": "Ghi chú"
+    },
+    "search": {
+        "searchDesc": "Kết quả tìm kiếm cho",
+        "noResult": "Không tìm thấy kết quả phù hợp.",
+        "type": {
+            "all": "Tất cả",
+            "store": "Cửa hàng",
+            "sale": "Ưu đãi"
+        },
+        "sort": {
+            "latest": "Mới nhất",
+            "love": "Yêu thích",
+            "follow": "Theo dõi"
+        }
+    },
+    "area": {
+        "name": "Khu vực"
+    },
+    "save": {
+        "saved": "Đã lưu",
+        "toStore": "Cửa hàng",
+        "unsave": "Bỏ lưu",
+        "noResult": "Bạn chưa lưu cửa hàng nào."
+    },
+    "footer": {
+        "about": "Về chúng tôi",
+        "contact": "Liên hệ",
+        "explore": "Khám phá",
+        "stores": "Cửa hàng",
+        "search": "Tìm kiếm",
+        "area": "Khu vực",
+        "us": "DiaChiDo",
+        "fastLinks": "Liên kết nhanh",
+        "websiteName": "Địa Chỉ Đỏ",
+        "reserved": "@ 2023 Dia chi do. All rights reserved",
+        "makeBy": "Thiết kế bởi: ",
+        "followus": "Theo dõi chúng tôi",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "youtube": "Youtube",
+        "tiktok": "Tiktok"
+    },
+    "share": {
+        "name": "Chia sẻ",
+        "copy": "Sao chép",
+        "shareTo": "Chia sẻ lên"
+    },
+    "user": {
+        "youHave": "Bạn có"
+    },
+    "notification": {
+        "name": "Thông báo",
+        "noResult": "Bạn không có thông báo nào mới.",
+        "isRead": "Đánh dấu đã đọc"
+    },
+    "about": {
+        "name": "Giới thiệu",
+        "store": "Cửa hàng",
+        "storeDecs": "Xem danh sách cửa hàng.",
+        "comment": "Bình luận",
+        "search": "Tìm kiếm",
+        "searchDecs": "Tìm kiếm ưu đãi theo tên cửa hàng, khu vực, khu vực, danh mục.",
+        "sale": "Ưu đãi",
+        "user": "Người dùng",
+        "category": "Danh mục",
+        "categoryDecs": "Xem các danh mục ưu đãi."
+    },
+    "contact": {
+        "name": "Liên hệ",
+        "title1": "Giới thiệu",
+        "title2": "Các sản phẩm/dịch vụ",
+        "title3": "Thông tin liên hệ",
+        "description1": "là website về cung cấp thông tin các khuyến mãi, ưu đãi, giảm giá trên nhiều lĩnh vực về các mặt hàng và kinh doanh. Giúp những người tìm kiếm về các giảm giá tìm được nơi mình mong muốn đến và những ưu đãi bất ngờ. Giúp có thêm sự lựa chọn cho người sử dụng để tối ưu chi phí và khám phá thêm những nơi mới, đồng thời tiếp cận được những sản phẩm dịch vụ mới. Sản phẩm sẽ cập nhật khắp Việt Nam để khách hàng tự tin đi du lịch, phượt yên tâm trong việc khám phá.",
+        "description2": "cũng là nền tảng công nghệ và đối tác tin cậy đối với các cá nhân, doanh nghiệp kinh doanh trên nhiều lĩnh vực ngành nghề trong việc truyền thông, nghiên cứu thị trường dựa trên các dữ liệu lớn (big data) trực tuyến và cung cấp nơi để quảng bá sản phẩm, khai trương mới và marketing trong lĩnh vực mà mình đang sở hữu.",
+        "description3": "Đối với các cơ sở kinh doanh, sản xuất còn chưa có nhiều công cụ và điều kiện tiếp cận được khách hàng, chúng tôi ở đây và sẵn lòng cùng các bạn đồng hành để dễ dàng tiếp cận được với những người dùng tiềm năng.",
+        "subtitle1": "Dịch vụ truyền thông trên nền tảng website",
+        "element1sub1": "Tin Đăng",
+        "element2sub1": "Banner",
+        "element3sub1": "Bài PR",
+        "subtitle2": "Các review/comment từ các hot member",
+        "subtitle3": "Tiếp cận các khách du lịch với hệ thống đa ngôn ngữ",
+        "subtitle4": "Từng bước áp dụng AI để giúp người dùng định hướng mong muốn của mình để đưa ra khuyến nghị của AI việc lựa chọn sản phẩm và nơi đến trong hệ thống cung cấp ( sẽ triển khai)",
+        "nameContact": "Bà Vũ Thị Ái Công",
+        "emailTitle": "Email",
+        "email": "đang cập nhật",
+        "phone": "0975591073",
+        "phoneTitle": "Điện thoại",
+        "thanks": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi!"
+    },
+    "error": {
+        "404": "Không tìm thấy trang",
+        "home": "Trở về trang chủ"
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Địa Chỉ Đỏ",
+    "url": "DiaChiDo.com.vn",
+    "description": "Search for deals, discounts at stores near you",
+    "slogan": "Find deals and discounts at stores near you",
+    "header": {
+        "search": "Search",
+        "login": "Login",
+        "loginSocial": "Quickly login with Google or Facebook"
+    },
+    "sidebar": {
+        "home": "Home",
+        "explore": "Explore",
+        "stores": "Stores",
+        "search": "Search",
+        "area": "Area",
+        "saved": "Saved",
+        "recentoffers": "Recent offers",
+        "recentoffersDesc": "added offers",
+        "activity": "Activity",
+        "featuredcategory": "Featured category",
+        "preferential": "Preferential"
+    },
+    "category": {
+        "amthuc": "Food",
+        "thoitrang": "Fashion",
+        "dulich": "Travel",
+        "dientu": "Electronics",
+        "sach": "Books",
+        "lamdep": "Beauty",
+        "thethao": "Sports",
+        "noithat": "Furniture"
+    },
+    "store": "Stores",
+    "latest": "Latest",
+    "all": "All",
+    "status": {
+        "loading": "Loading...",
+        "loadmore": "Load more"
+    },
+    "noresult": "No results found.",
+    "discount": {
+        "sale": "Sale",
+        "for": "for items"
+    },
+    "sort": {
+        "latest": "Latest",
+        "oldest": "Oldest",
+        "popular": "Popular",
+        "discount": "Discount",
+        "mostdiscount": "Most Discount"
+    },
+    "storeDetail": {
+        "ratingDesc": "Rate this store",
+        "noRating": "yet",
+        "ratingCount": "ratings",
+        "love": "Love",
+        "loved": "Loved",
+        "location": "Location",
+        "explore": "Explore store",
+        "follow": "Follow",
+        "noResult": "Store has not updated any offers",
+        "comment": "What do people think about ",
+        "sale": "On sale",
+        "saleExpired": "Expired",
+        "Required": "This promotion requires a discount code. See details to get the discount code."
+    },
+    "comment": {
+        "requireUser": "You need to log in to comment...",
+        "placehoder": "Enter your comment...",
+        "noResult": "No comments yet",
+        "sort": "Sort comments",
+        "delete": "Delete Comment",
+        "deleteTitle": "Confirm delete Comment",
+        "deleteConfirm": "Are you sure you want to delete this comment?",
+        "deleteSuccess": "Comment deleted successfully",
+        "edit": "Edit Comment",
+        "editTitle": "Edit comment",
+        "timeAgo": "ago",
+        "ok": "OK",
+        "cancel": "Cancel",
+        "loadMore": "Load more comments"
+    },
+    "sale": {
+        "name": "Name",
+        "offer": "Offer",
+        "time": "Valid time",
+        "action": "Action",
+        "note": "Note"
+    },
+    "search": {
+        "searchDesc": "Search results for",
+        "noResult": "No results found.",
+        "type": {
+            "all": "All",
+            "store": "Store",
+            "sale": "Offer"
+        },
+        "sort": {
+            "latest": "Latest",
+            "love": "Love",
+            "follow": "Follow"
+        }
+    },
+    "area": {
+        "name": "Area"
+    },
+    "save": {
+        "saved": "Saved",
+        "toStore": "To store",
+        "unsave": "Unsave",
+        "noResult": "You haven't saved any stores."
+    },
+    "footer": {
+        "about": "About us",
+        "contact": "Contact",
+        "explore": "Explore",
+        "stores": "Stores",
+        "search": "Search",
+        "area": "Area",
+        "us": "DiaChiDo",
+        "fastLinks": "Quick links",
+        "websiteName": "Địa Chỉ Đỏ",
+        "reserved": "@ 2023 Dia chi do. All rights reserved",
+        "makeBy": "Designed by: ",
+        "followus": "Follow Us",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "youtube": "Youtube",
+        "tiktok": "Tiktok"
+    },
+    "share": {
+        "name": "Share",
+        "copy": "Copy",
+        "shareTo": "Share to"
+    },
+    "user": {
+        "youHave": "You have"
+    },
+    "notification": {
+        "name": "Notifications",
+        "noResult": "You have no new notifications.",
+        "isRead": "Mark as read"
+    },
+    "about": {
+        "name": "About",
+        "store": "Stores",
+        "storeDecs": "View the list of stores.",
+        "comment": "Comments",
+        "search": "Search",
+        "searchDecs": "Search for deals by store name, area, region, category.",
+        "sale": "Sale",
+        "user": "Users",
+        "category": "Category",
+        "categoryDecs": "View various deal categories."
+    },
+    "contact": {
+        "name": "Contact",
+        "title1": "Introduction",
+        "title2": "Products/Services",
+        "title3": "Contact Information",
+        "description1": "is a website that provides information about promotions, discounts, and offers across various sectors of goods and businesses. It helps people searching for discounts find the places they desire to go and discover unexpected deals. It provides additional choices for users to optimize costs and explore new places while gaining access to new products and services. The products will be updated throughout Vietnam to allow customers to travel with confidence and explore safely.",
+        "description2": "is also a technology platform and a trusted partner for individuals and businesses operating in various industries in terms of communication, market research based on big data online, and provides a platform for product promotion, grand openings, and marketing in the field they own.",
+        "description3": "For businesses and manufacturers who have not had many tools and conditions to reach customers, we are here and ready to accompany you to easily access potential users.",
+        "subtitle1": "Communication services on the website platform",
+        "element1sub1": "Advertisements",
+        "element2sub1": "Banners",
+        "element3sub1": "PR Articles",
+        "subtitle2": "Reviews/Comments from Hot Members",
+        "subtitle3": "Reaching tourists with a multilingual system",
+        "subtitle4": "Step by step AI application to help users determine their preferences in order to provide AI recommendations for product selection and travel destinations in the supply system (to be implemented)",
+        "nameContact": "Ms. Vu Thi Ai Cong",
+        "emailTitle": "Email",
+        "email": "updating",
+        "phone": "0975591073",
+        "phoneTitle": "Phone",
+        "thanks": "Thank you for using our services!"
+    },
+    "error": {
+        "404": "Page not found",
+        "home": "Return to the homepage"
+    }
+}

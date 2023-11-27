@@ -1,0 +1,177 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.outfitColorOnce {
+    /* color: #f94144; */
+    @apply bg-[#f94144];
+}
+
+.outfitColorTwice {
+    /* color: #212529; */
+    @apply bg-[#212529] text-[#ffffff];
+}
+
+.textColorTwice {
+    @apply text-[#212529];
+}
+
+.bgColor {
+    @apply bg-[#e9edc9];
+}
+
+.bgBlur {
+    @apply bg-transparent backdrop-blur-[0.80rem] border outline-none;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.flexCenter {
+    @apply flex justify-center items-center;
+}
+
+.flexBetween {
+    @apply flex justify-between items-center;
+}
+
+.flexStart {
+    @apply flex justify-start items-center;
+}
+.flexStart_Column {
+    @apply flex flex-col justify-center items-start;
+}
+
+.flexEnd {
+    @apply flex justify-end items-center;
+}
+
+.radiusBorder {
+    @apply rounded-[0.80rem] border border-gray-200;
+}
+.radiusFill {
+    @apply rounded-[0.80rem];
+}
+
+.radiusButton {
+    @apply rounded-[0.80rem] px-4 py-1;
+}
+
+.radiusFull {
+    @apply rounded-full;
+}
+
+.wh-full {
+    @apply w-full h-full;
+}
+
+.wh-icon {
+    @apply w-4 h-4;
+}
+
+/* Footer */
+.footer {
+    @apply flex flex-col w-full gap-20;
+}
+
+.footer_column {
+    @apply flex flex-col gap-2;
+}
+
+.inputBgGray50,
+.inputBgGray50 input {
+    @apply bg-gray-50;
+}
+
+.inputBgGray50:focus-within,
+.inputBgGray50 input:focus {
+    @apply bg-white;
+}
+
+.noBorder,
+.noBorder fieldset {
+    @apply border-none;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    display: none;
+}
+.swiper-button-next {
+    background-image: url('../src/assets/icons/next.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    @apply bg-gray-200/70 rounded-full;
+}
+.swiper-button-prev {
+    background-image: url('../src/assets/icons/prev.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    @apply bg-gray-200/70 rounded-full;
+}
+.hide-scrollbar {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Safari và Chrome */
+}
+
+.MuiButtonBase-root {
+    padding: 0;
+}
+
+.animation200 {
+    @apply transition-all duration-200;
+}
+
+.ct_skeleton {
+    @apply bg-zinc-100 rounded-[0.125rem];
+}
+
+.w-calc {
+    @apply w-[calc(calc(100%-2rem)/2)] sm:w-[calc(calc(100%-3rem)/3)] md:w-[calc(calc(100%-3rem)/3)] lg:w-[calc(calc(100%-3rem)/3)] xl:w-[calc(calc(100%-4rem)/4)];
+}
+
+@keyframes upDownAnimation {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px); /* Điều chỉnh khoảng cách bạn muốn phần tử di chuyển lên */
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.keyframes-cus {
+    animation: upDownAnimation 2s ease-in-out infinite; /* Điều chỉnh thời gian và tốc độ tùy ý */
+}

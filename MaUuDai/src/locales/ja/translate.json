@@ -1,0 +1,184 @@
+{
+    "name": "Địa Chỉ Đỏ",
+    "url": "DiaChiDo.com.vn",
+    "description": "お店でのお得な情報やディスカウントを検索",
+    "slogan": "近くのお店でお得な情報やディスカウントを見つける",
+    "header": {
+        "search": "検索",
+        "login": "ログイン",
+        "loginSocial": "GoogleまたはFacebookで簡単にログイン"
+    },
+    "sidebar": {
+        "home": "ホーム",
+        "explore": "探索",
+        "stores": "お店",
+        "search": "検索",
+        "area": "エリア",
+        "saved": "保存済み",
+        "recentoffers": "最新のオファー",
+        "recentoffersDesc": "追加されたオファー",
+        "activity": "アクティビティ",
+        "featuredcategory": "注目のカテゴリー",
+        "preferential": "特典"
+    },
+    "category": {
+        "amthuc": "食品",
+        "thoitrang": "ファッション",
+        "dulich": "旅行",
+        "dientu": "電子製品",
+        "sach": "本",
+        "lamdep": "美容",
+        "thethao": "スポーツ",
+        "noithat": "家具"
+    },
+    "store": "お店",
+    "latest": "最新",
+    "all": "すべて",
+    "status": {
+        "loading": "読み込み中...",
+        "loadmore": "さらに読み込む"
+    },
+    "noresult": "結果が見つかりません。",
+    "discount": {
+        "sale": "セール",
+        "for": "アイテム用"
+    },
+    "sort": {
+        "latest": "最新",
+        "oldest": "最古",
+        "popular": "人気",
+        "discount": "割引",
+        "mostdiscount": "最も割引"
+    },
+    "storeDetail": {
+        "ratingDesc": "このお店を評価",
+        "noRating": "まだ",
+        "ratingCount": "評価",
+        "love": "いいね",
+        "loved": "いいね済み",
+        "location": "場所",
+        "explore": "お店を探す",
+        "follow": "フォロー",
+        "noResult": "お店はまだオファーを更新していません",
+        "comment": "人々は何を考えていますか",
+        "sale": "セール中",
+        "saleExpired": "期限切れ",
+        "Required": "このプロモーションには割引コードが必要です。詳細をご覧いただき、割引コードを取得してください。"
+    },
+    "comment": {
+        "requireUser": "コメントするにはログインが必要です...",
+        "placehoder": "コメントを入力してください...",
+        "noResult": "コメントはまだありません",
+        "sort": "コメントの並べ替え",
+        "delete": "コメントを削除",
+        "deleteTitle": "コメントの削除を確認",
+        "deleteConfirm": "このコメントを削除してもよろしいですか？",
+        "deleteSuccess": "コメントが正常に削除されました",
+        "edit": "コメントを編集",
+        "editTitle": "コメントを編集",
+        "timeAgo": "前",
+        "ok": "OK",
+        "cancel": "キャンセル",
+        "loadMore": "さらにコメントを読み込む"
+    },
+    "sale": {
+        "name": "名前",
+        "offer": "オファー",
+        "time": "有効期間",
+        "action": "アクション",
+        "note": "ノート"
+    },
+    "search": {
+        "searchDesc": "の検索結果",
+        "noResult": "結果が見つかりません。",
+        "type": {
+            "all": "すべて",
+            "store": "お店",
+            "sale": "オファー"
+        },
+        "sort": {
+            "latest": "最新",
+            "love": "いいね",
+            "follow": "フォロー"
+        }
+    },
+    "area": {
+        "name": "エリア"
+    },
+    "save": {
+        "saved": "保存済み",
+        "toStore": "お店へ",
+        "unsave": "保存解除",
+        "noResult": "保存したお店はありません。"
+    },
+    "footer": {
+        "about": "当社について",
+        "contact": "お問い合わせ",
+        "explore": "探索",
+        "stores": "お店",
+        "search": "検索",
+        "area": "エリア",
+        "us": "DiaChiDo",
+        "fastLinks": "クイックリンク",
+        "websiteName": "Địa Chỉ Đỏ",
+        "reserved": "@ 2023 Dia chi do. All rights reserved",
+        "makeBy": "デザイン: ",
+        "followus": "私たちをフォローしてください",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "youtube": "Youtube",
+        "tiktok": "Tiktok"
+    },
+    "share": {
+        "name": "共有",
+        "copy": "コピー",
+        "shareTo": "共有先"
+    },
+    "user": {
+        "youHave": "所持数"
+    },
+    "notification": {
+        "name": "通知",
+        "noResult": "新しい通知はありません。",
+        "isRead": "既読にする"
+    },
+    "about": {
+        "name": "について",
+        "store": "お店",
+        "storeDecs": "お店のリストを表示。",
+        "comment": "コメント",
+        "search": "検索",
+        "searchDecs": "お店名、エリア、カテゴリーでディールを検索。",
+        "sale": "セール",
+        "user": "ユーザー",
+        "category": "カテゴリー",
+        "categoryDecs": "さまざまなディールカテゴリーを表示。"
+    },
+    "contact": {
+        "name": "お問い合わせ",
+        "title1": "紹介",
+        "title2": "製品/サービス",
+        "title3": "連絡先情報",
+        "description1": "は、さまざまな商品とビジネスセクター全体のプロモーション、ディスカウント、提供情報を提供するウェブサイトです。お得な情報を探している人々が望む場所を見つけ、予期せぬお得な情報を発見できるように支援します。ユーザーはコストを最適化し、新しい場所を探索しながら新しい商品とサービスにアクセスできます。商品情報はベトナム全土に提供され、ユーザーは自信を持って旅行し、安全に探索できます。",
+        "description2": "は、通信、オンラインビッグデータに基づく市場調査、製品のプロモーション、グランドオープニング、所有している分野でのマーケティングに関して、さまざまな業界で個人とビジネスをサポートする技術プラットフォームおよび信頼できるパートナーでもあります。",
+        "description3": "多くのツールや条件を持たない事業者やメーカーのために、潜在的なユーザーに簡単にアクセスできるようサポートします。",
+        "subtitle1": "ウェブサイトプラットフォーム上のコミュニケーションサービス",
+        "element1sub1": "広告",
+        "element2sub1": "バナー",
+        "element3sub1": "PR記事",
+        "subtitle2": "ホットメンバーからのレビュー/コメント",
+        "subtitle3": "多言語システムで観光客にアプローチ",
+        "subtitle4": "製品選択と供給システム内の旅行先のAI推奨を提供するためのユーザーの嗜好を判断するAIアプリケーションの段階的な適用（実施予定）",
+        "nameContact": "Ms. Vu Thi Ai Cong",
+        "emailTitle": "メール",
+        "email": "更新中",
+        "phone": "0975591073",
+        "phoneTitle": "電話",
+        "thanks": "当社のサービスをご利用いただき、ありがとうございます！"
+    },
+    "error": {
+        "404": "ページが見つかりません",
+        "home": "ホームページに戻る"
+    }
+}

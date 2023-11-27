@@ -1,0 +1,184 @@
+{
+    "name": "Địa Chỉ Đỏ",
+    "url": "DiaChiDo.com.vn",
+    "description": "寻找附近商店的优惠和折扣",
+    "slogan": "在附近商店找到优惠和折扣",
+    "header": {
+        "search": "搜索",
+        "login": "登录",
+        "loginSocial": "使用Google或Facebook快速登录"
+    },
+    "sidebar": {
+        "home": "首页",
+        "explore": "探索",
+        "stores": "商店",
+        "search": "搜索",
+        "area": "地区",
+        "saved": "已保存",
+        "recentoffers": "最近的优惠",
+        "recentoffersDesc": "新增的优惠",
+        "activity": "活动",
+        "featuredcategory": "特色分类",
+        "preferential": "优惠"
+    },
+    "category": {
+        "amthuc": "食品",
+        "thoitrang": "时尚",
+        "dulich": "旅行",
+        "dientu": "电子产品",
+        "sach": "书籍",
+        "lamdep": "美容",
+        "thethao": "体育",
+        "noithat": "家具"
+    },
+    "store": "商店",
+    "latest": "最新",
+    "all": "全部",
+    "status": {
+        "loading": "加载中...",
+        "loadmore": "加载更多"
+    },
+    "noresult": "未找到结果。",
+    "discount": {
+        "sale": "折扣",
+        "for": "商品"
+    },
+    "sort": {
+        "latest": "最新",
+        "oldest": "最旧",
+        "popular": "热门",
+        "discount": "折扣",
+        "mostdiscount": "最多折扣"
+    },
+    "storeDetail": {
+        "ratingDesc": "评价此商店",
+        "noRating": "尚未评价",
+        "ratingCount": "评价",
+        "love": "喜欢",
+        "loved": "已喜欢",
+        "location": "位置",
+        "explore": "探索商店",
+        "follow": "关注",
+        "noResult": "商店尚未更新任何优惠",
+        "comment": "人们对于",
+        "sale": "特价",
+        "saleExpired": "已过期",
+        "Required": "此促销活动需要折扣码。请查看详细信息以获取折扣码。"
+    },
+    "comment": {
+        "requireUser": "您需要登录才能评论...",
+        "placehoder": "输入您的评论...",
+        "noResult": "暂无评论",
+        "sort": "排序评论",
+        "delete": "删除评论",
+        "deleteTitle": "确认删除评论",
+        "deleteConfirm": "您确定要删除此评论吗？",
+        "deleteSuccess": "评论删除成功",
+        "edit": "编辑评论",
+        "editTitle": "编辑评论",
+        "timeAgo": "前",
+        "ok": "确定",
+        "cancel": "取消",
+        "loadMore": "加载更多评论"
+    },
+    "sale": {
+        "name": "名称",
+        "offer": "优惠",
+        "time": "有效期",
+        "action": "操作",
+        "note": "备注"
+    },
+    "search": {
+        "searchDesc": "搜索结果",
+        "noResult": "未找到结果。",
+        "type": {
+            "all": "全部",
+            "store": "商店",
+            "sale": "优惠"
+        },
+        "sort": {
+            "latest": "最新",
+            "love": "喜欢",
+            "follow": "关注"
+        }
+    },
+    "area": {
+        "name": "地区"
+    },
+    "save": {
+        "saved": "已保存",
+        "toStore": "到商店",
+        "unsave": "取消保存",
+        "noResult": "您尚未保存任何商店。"
+    },
+    "footer": {
+        "about": "关于我们",
+        "contact": "联系方式",
+        "explore": "探索",
+        "stores": "商店",
+        "search": "搜索",
+        "area": "地区",
+        "us": "DiaChiDo",
+        "fastLinks": "快速链接",
+        "websiteName": "Địa Chỉ Đỏ",
+        "reserved": "@ 2023 Dia chi do. 版权所有",
+        "makeBy": "设计制作：",
+        "followus": "关注我们",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "youtube": "Youtube",
+        "tiktok": "Tiktok"
+    },
+    "share": {
+        "name": "分享",
+        "copy": "复制",
+        "shareTo": "分享到"
+    },
+    "user": {
+        "youHave": "您有"
+    },
+    "notification": {
+        "name": "通知",
+        "noResult": "您没有新的通知。",
+        "isRead": "标记为已读"
+    },
+    "about": {
+        "name": "关于",
+        "store": "商店",
+        "storeDecs": "查看商店列表。",
+        "comment": "评论",
+        "search": "搜索",
+        "searchDecs": "按商店名称、地区、类别搜索优惠。",
+        "sale": "优惠",
+        "user": "用户",
+        "category": "类别",
+        "categoryDecs": "查看各种交易类别。"
+    },
+    "contact": {
+        "name": "联系方式",
+        "title1": "介绍",
+        "title2": "产品/服务",
+        "title3": "联系信息",
+        "description1": "红色地址是一个提供各种商品和企业部门的促销、折扣和优惠信息的网站。它帮助寻找折扣的人找到他们想去的地方并发现意外的交易。它为用户提供额外的选择，以优化成本并探索新地方，同时访问新的产品和服务。产品将在越南各地定期更新，使客户能够自信出行并安全探索。",
+        "description2": "红色地址还是一个技术平台，对于各个行业的个人和企业来说，它是一家值得信赖的合作伙伴，提供基于大数据在线的沟通、市场研究，并提供产品推广、开业典礼和各自领域的营销平台。",
+        "description3": "对于那些没有太多工具和条件接触客户的企业和制造商，我们在这里，随时与您携手，轻松获得潜在用户。",
+        "subtitle1": "网站平台上的通信服务",
+        "element1sub1": "广告",
+        "element2sub1": "横幅广告",
+        "element3sub1": "PR文章",
+        "subtitle2": "热门会员的评论/留言",
+        "subtitle3": "多语言系统接触游客",
+        "subtitle4": "逐步的AI应用，帮助用户确定他们的偏好，以为产品选择和旅行目的地提供AI建议（尚未实施）",
+        "nameContact": "Ms. Vu Thi Ai Cong",
+        "emailTitle": "电子邮件",
+        "email": "更新中",
+        "phone": "0975591073",
+        "phoneTitle": "电话",
+        "thanks": "感谢您使用我们的服务！"
+    },
+    "error": {
+        "404": "页面未找到",
+        "home": "返回首页"
+    }
+}

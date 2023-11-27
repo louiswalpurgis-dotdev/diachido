@@ -1,0 +1,184 @@
+{
+    "name": "Địa Chỉ Đỏ",
+    "url": "DiaChiDo.com.vn",
+    "description": "근처 가게에서 거래 및 할인 찾기",
+    "slogan": "근처 가게에서 거래 및 할인 찾기",
+    "header": {
+        "search": "검색",
+        "login": "로그인",
+        "loginSocial": "Google 또는 Facebook으로 빠르게 로그인"
+    },
+    "sidebar": {
+        "home": "홈",
+        "explore": "탐색",
+        "stores": "가게",
+        "search": "검색",
+        "area": "지역",
+        "saved": "저장됨",
+        "recentoffers": "최근 거래",
+        "recentoffersDesc": "추가된 거래",
+        "activity": "활동",
+        "featuredcategory": "주요 카테고리",
+        "preferential": "우대",
+        "category": {
+            "amthuc": "음식",
+            "thoitrang": "패션",
+            "dulich": "여행",
+            "dientu": "전자제품",
+            "sach": "책",
+            "lamdep": "뷰티",
+            "thethao": "스포츠",
+            "noithat": "가구"
+        }
+    },
+    "store": "가게",
+    "latest": "최신",
+    "all": "모두",
+    "status": {
+        "loading": "로드 중...",
+        "loadmore": "더로드"
+    },
+    "noresult": "결과가 없습니다.",
+    "discount": {
+        "sale": "할인",
+        "for": "품목"
+    },
+    "sort": {
+        "latest": "최신",
+        "oldest": "오래된",
+        "popular": "인기",
+        "discount": "할인",
+        "mostdiscount": "가장 많은 할인"
+    },
+    "storeDetail": {
+        "ratingDesc": "이 가게 평가하기",
+        "noRating": "아직",
+        "ratingCount": "평가",
+        "love": "좋아요",
+        "loved": "좋아함",
+        "location": "위치",
+        "explore": "가게 탐색",
+        "follow": "팔로우",
+        "noResult": "가게가 아직 거래를 업데이트하지 않았습니다.",
+        "comment": "사람들이 생각하는 것은 무엇인가요 ",
+        "sale": "할인 중",
+        "saleExpired": "만료됨",
+        "Required": "이 프로모션에는 할인 코드가 필요합니다. 할인 코드를 얻으려면 세부 정보를 참조하십시오."
+    },
+    "comment": {
+        "requireUser": "로그인해야합니다...",
+        "placehoder": "댓글을 입력하세요...",
+        "noResult": "아직 댓글이 없습니다",
+        "sort": "댓글 정렬",
+        "delete": "댓글 삭제",
+        "deleteTitle": "댓글 삭제 확인",
+        "deleteConfirm": "이 댓글을 삭제하시겠습니까?",
+        "deleteSuccess": "댓글이 성공적으로 삭제되었습니다",
+        "edit": "댓글 편집",
+        "editTitle": "댓글 편집",
+        "timeAgo": "전",
+        "ok": "확인",
+        "cancel": "취소",
+        "loadMore": "댓글 더 불러오기"
+    },
+    "sale": {
+        "name": "이름",
+        "offer": "거래",
+        "time": "유효 시간",
+        "action": "동작",
+        "note": "참고"
+    },
+    "search": {
+        "searchDesc": "검색 결과",
+        "noResult": "결과가 없습니다.",
+        "type": {
+            "all": "모두",
+            "store": "가게",
+            "sale": "거래"
+        },
+        "sort": {
+            "latest": "최신",
+            "love": "좋아요",
+            "follow": "팔로우"
+        }
+    },
+    "area": {
+        "name": "지역"
+    },
+    "save": {
+        "saved": "저장됨",
+        "toStore": "가게로",
+        "unsave": "저장 취소",
+        "noResult": "아직 저장한 가게가 없습니다."
+    },
+    "footer": {
+        "about": "회사 소개",
+        "contact": "문의",
+        "explore": "탐색",
+        "stores": "가게",
+        "search": "검색",
+        "area": "지역",
+        "us": "DiaChiDo",
+        "fastLinks": "빠른 링크",
+        "websiteName": "Địa Chỉ Đỏ",
+        "reserved": "@ 2023 Dia chi do. 판권 소유",
+        "makeBy": "디자인 제작: ",
+        "followus": "우리를 팔로우하세요",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "youtube": "Youtube",
+        "tiktok": "Tiktok"
+    },
+    "share": {
+        "name": "공유",
+        "copy": "복사",
+        "shareTo": "공유 대상"
+    },
+    "user": {
+        "youHave": "가지고 계신"
+    },
+    "notification": {
+        "name": "알림",
+        "noResult": "새로운 알림이 없습니다.",
+        "isRead": "읽음으로 표시"
+    },
+    "about": {
+        "name": "회사 소개",
+        "store": "가게",
+        "storeDecs": "가게 목록 보기.",
+        "comment": "댓글",
+        "search": "검색",
+        "searchDecs": "가게 이름, 지역, 카테고리별 거래 검색.",
+        "sale": "거래",
+        "user": "사용자",
+        "category": "카테고리",
+        "categoryDecs": "다양한 거래 카테고리 보기."
+    },
+    "contact": {
+        "name": "문의",
+        "title1": "소개",
+        "title2": "제품/서비스",
+        "title3": "문의 정보",
+        "description1": "레드 주소는 다양한 상품 및 비즈니스 부문에서의 프로모션, 할인 및 거래 정보를 제공하는 웹사이트입니다. 할인을 찾는 사용자들이 원하는 장소를 찾고 예상치 못한 거래를 발견하는 데 도움을 줍니다. 사용자들에게 비용을 최적화하고 새로운 장소를 탐험하면서 새로운 제품 및 서비스에 접근할 수 있는 추가적인 선택을 제공합니다. 제품은 전국적으로 업데이트되어 고객들이 자신감 있게 여행하고 안전하게 탐험할 수 있도록 합니다.",
+        "description2": "레드 주소는 또한 커뮤니케이션, 온라인 빅데이터를 기반으로 한 시장 조사, 제품 홍보, 그랜드 오프닝 및 각 업종의 마케팅에서 신뢰할 수 있는 파트너 및 기술 플랫폼 역할을 합니다.",
+        "description3": "많은 도구 및 조건을 갖지 못한 비즈니스와 제조업체들을 위해 우리는 여기 있으며 잠재 고객에 쉽게 접근할 수 있도록 동반할 준비가 되어 있습니다.",
+        "subtitle1": "웹사이트 플랫폼에서의 커뮤니케이션 서비스",
+        "element1sub1": "광고",
+        "element2sub1": "배너",
+        "element3sub1": "PR 기사",
+        "subtitle2": "핫 멤버들의 리뷰/댓글",
+        "subtitle3": "다국어 시스템으로 관광객에게 접근하기",
+        "subtitle4": "제품 선택 및 여행 목적지에 대한 AI 추천을 제공하기 위해 사용자가 선호도를 결정하는 데 도움이되는 단계별 AI 애플리케이션 (구현 예정)",
+        "nameContact": "Ms. Vu Thi Ai Cong",
+        "emailTitle": "이메일",
+        "email": "업데이트 중",
+        "phone": "0975591073",
+        "phoneTitle": "전화",
+        "thanks": "저희 서비스를 이용해 주셔서 감사합니다!"
+    },
+    "error": {
+        "404": "페이지를 찾을 수 없음",
+        "home": "홈페이지로 돌아가기"
+    }
+}
